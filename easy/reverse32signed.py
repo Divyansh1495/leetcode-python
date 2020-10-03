@@ -17,4 +17,4 @@ def reverse(x: int):
             return 0
 
 
-print(reverse())
+print(reverse(-1298434567))
